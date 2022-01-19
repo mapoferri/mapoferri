@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mapoferri
-- 👀 I’m interested in Bioinformatics and HPC
-- 🌱 I’m currently working with Building Blocks and Cloud 
+- 🖥️ I’m interested in Bioinformatics and HPC
+- 🏛️ I’m currently working with Building Blocks and Cloud at the BSC
 - 📫 How to reach me : maria.ferribsc.es or mariapaola.ferri@studio.unibo.it
 - 📦 Can look up also to my packages https://pypi.org/user/mapoferri/
 <!---
